@@ -204,7 +204,7 @@ For starters click on this button
 The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
 This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
-Also, missing proper credit for blacklistusers taken from TheRealPhoenixBot (will add it later, this note says unless it is done)
+Also, missing proper credit for blacklistusers taken from TheRealPhoenixBot haha (will add it later, this note says unless it is done)
 
 Any other authorship/credits can be seen through the commits.
 
