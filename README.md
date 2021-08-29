@@ -198,7 +198,7 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 For starters click on this button 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnimeKaizoku/SaitamaRobot.git) 
-
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/mearnin/SaitamaRobot/tree/main&envs=ALLOW_EXCEL,API_ID,API_HASH,CASH_API_KEY,DEL_CMDS,DEV_USERS,DONATION_LINK,ENV,EVENT_LOGS,JOIN_LOGGER,No_LOAD,OWNER_ID,OWNER_USENAME,SQLALCHEMY_DATABASE_URI,STRICT_GBAN,SUDO_USERS,SUPPORT_CHAT,SUPPORT_USERS,sw_api,TIGER_USERS,TIME_API_KEY,TOKEN,WHITELIST_USERS)
 
 ## Credits
 The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
